@@ -1,5 +1,5 @@
 # stopwords-hindi
-Stopwords in hindi - devnagari
+Stopwords in Hindi - Devanagari
 
 
 Stopwords Hindi (HI)
